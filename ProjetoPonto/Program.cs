@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 
@@ -14,10 +15,10 @@ namespace ProjetoPonto
             Ponto p1 = new Ponto(); 
             p1.imprimirCoordenadas(); 
             p1.incrementarCoordenadas(5, 2); 
-            //p1.zerarCoordenadas(); 
+            p1.zerarCoordenadas(); 
             p1.imprimirCoordenadas(); 
             p1.incrementarCoordenadas(5, 2); 
-            //p1.zerarCoordenadas(); 
+            p1.zerarCoordenadas(); 
             p1.imprimirCoordenadas(); 
             Ponto p2 = new Ponto(); 
             p2.imprimirCoordenadas(); 
@@ -37,6 +38,42 @@ namespace ProjetoPonto
             {
                 j.imprimirCoordenadas();
             }
+            Ponto p3 = new Ponto(2, 6);
+            p3.imprimirCoordenadas();
+            p3.incrementarCoordenadas(6, 9);
+            p3.imprimirCoordenadas();
+            p3.incrementarCoordenadas(5, 2);
+            p3.imprimirCoordenadas();
+            p3.zerarCoordenadas();
+            
+            Ponto p4 = new Ponto();
+            p4.imprimirCoordenadas();
+            p4.incrementarCoordenadas(6, 9);
+            p4.imprimirCoordenadas();
+            p4.incrementarCoordenadas(5, 2);
+            p4.imprimirCoordenadas();
+            p4.zerarCoordenadas();
+
+            Ponto p5 = new Ponto(10,20);
+            Ponto p6 = new Ponto(5,8);
+            p5.incrementarCoordenadas(2,3);
+            p5.imprimirCoordenadas();
+            p6.imprimirCoordenadas();
+
+            Console.WriteLine("digite quantos objetos serão implementados e digite x, y respectivamente");
+            int qtd = int.Parse(Console.ReadLine());
+            Ponto[] objeto = new Ponto[qtd];
+            for(int k = 0; k < qtd; k++){
+                int v1 = int.Parse(Console.ReadLine());
+                int v2 = int.Parse(Console.ReadLine());
+                if (v1 < 0 || v2 < 0)
+                    break;
+                else
+                objeto[k] = new Ponto(v1, v2, $"objeto[{k}]");
+                objeto[k].imprimirCoordenadas();
+            }
+            ArrayList arrayList = new ArrayList();
+            
         } 
     }
 }
