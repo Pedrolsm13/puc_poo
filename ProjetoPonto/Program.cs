@@ -72,8 +72,34 @@ namespace ProjetoPonto
                 objeto[k] = new Ponto(v1, v2, $"objeto[{k}]");
                 objeto[k].imprimirCoordenadas();
             }
-            ArrayList arrayList = new ArrayList();
             
+            Console.WriteLine("digite quantos objetos serão implementados no arraylist e digite x, y respectivamente");
+            int qtd1 = int.Parse(Console.ReadLine());
+            ArrayList arrayList = new ArrayList(qtd1);
+            int c1 = 0, c2 = 0, lm = 0;
+            do{
+                c1 = int.Parse(Console.ReadLine());
+                c2 = int.Parse(Console.ReadLine());
+                if (c1 < 0 || c2 < 0){
+                    foreach (Ponto item in arrayList){
+                        Console.WriteLine(item);
+                    }
+                    break;
+                }
+                arrayList.Add(new Ponto(c1, c2, $"objeto[{lm}]"));
+                lm++;
+            }while (c1 >= 0 || c2 >= 0);
+            
+            /*for(int k = 0; k < qtd1; k++){
+                int v1 = int.Parse(Console.ReadLine());
+                int v2 = int.Parse(Console.ReadLine());
+                if (v1 < 0 || v2 < 0)
+                    for(int l = 0; l < k; l++){
+                        Console.WriteLine(arrayList[l]);
+                    }
+                else
+                arrayList.Add(new Ponto(v1, v2, $"objeto[{k}]"));
+            }*/
         } 
     }
 }

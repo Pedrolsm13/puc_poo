@@ -43,5 +43,8 @@ namespace ProjetoPonto
         { this.x = x; }
         public void sety(int y)
         { this.y = y; }
+        public override string ToString(){
+            return $"Ponto({desc}, x = {x} y = {y})";
+        }
     }
 }
