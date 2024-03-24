@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X6GmSHBxEZHSCUZBVBUP+HyNERW8OE5XhP3OioJ/sQQI7KjjMaqhm9v48/6HZiFZMyMhFeiWjKzdCyK3ISNxjA==",
+  "dgSpecHash": "yiIJRVn7PGQvU3m5Ox3LNA0eTsPvDNpkiBqFL05qOs5bjFVpGcUpNa0OsO07v9wQ4yTdLubP7GSvBquwq42gKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\fiscal4\\Workspace\\puc_poo\\ProjetoPonto\\ProjetoPonto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fiscal4\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\fiscal4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\fiscal4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\fiscal4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

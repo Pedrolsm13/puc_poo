@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoPonto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Roteiro associação de objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1465facda8c4214662e35068566c021241621af")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProjetoPonto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProjetoPonto")]
+[assembly: System.Reflection.AssemblyProductAttribute("Roteiro associação de objetos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Roteiro associação de objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
