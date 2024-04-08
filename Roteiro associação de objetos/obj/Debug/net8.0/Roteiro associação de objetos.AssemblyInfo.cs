@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Roteiro associação de objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1465facda8c4214662e35068566c021241621af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47bef1ed616611129b96e74e906b079a285069f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Roteiro associação de objetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Roteiro associação de objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
