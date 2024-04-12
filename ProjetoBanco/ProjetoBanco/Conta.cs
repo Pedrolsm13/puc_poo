@@ -11,9 +11,15 @@ namespace ProjetoBanco
         public int Numero { get; set; }
         public string Titular { get; set; }
         public double Saldo { get; protected set; }
-        public DateTime DataAbertura { get; set; }
         public Agencia Agencia { get; set; } // Referência para a Agência
 
+        public Conta(int numero, string titular, double saldo)
+        {
+            Numero = numero;
+            Titular = titular;
+            Saldo = saldo;
+        }
+        
         public virtual void Debitar(double valor)
         {
             Saldo -= valor;
@@ -26,7 +32,7 @@ namespace ProjetoBanco
 
         public override string ToString()
         {
-            return $"Número: {Numero}, Titular: {Titular}, Saldo: {Saldo}, Data de Abertura: {DataAbertura}, Agência: {Agencia.Codigo}";
+            return $"Número: {Numero}, Titular: {Titular}, Saldo: {Saldo}, Agência: {Agencia.Codigo}";
         }
 
         public override bool Equals(object obj)

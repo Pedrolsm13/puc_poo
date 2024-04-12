@@ -12,6 +12,8 @@ namespace ProjetoBanco
 {
     public partial class Form1 : Form
     {
+        private View_Conta viewConta;
+
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +26,11 @@ namespace ProjetoBanco
 
         private void cadastroToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (viewConta == null)
+            {
+                viewConta = new View_Conta();
+            }
+            viewConta.ShowDialog();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoBanco
 {
-    internal class ContaCorrente
+    internal class ContaCorrente : Conta
     {
         public bool ContaEspecial { get; set; }
         public double LimiteCheque { get; set; }

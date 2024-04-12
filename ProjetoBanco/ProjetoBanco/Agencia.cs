@@ -11,8 +11,13 @@ namespace ProjetoBanco
     {
         public int Codigo { get; set; }
         public string Descricao { get; set; }
-        public DateTime DataAbertura { get; set; }
         private List<Conta> contas = new List<Conta>();
+
+        public Agencia(int codigo, string descricao)
+        {
+            Codigo = codigo;
+            Descricao = descricao;
+        }
 
         public void AdicionarConta(Conta conta)
         {
