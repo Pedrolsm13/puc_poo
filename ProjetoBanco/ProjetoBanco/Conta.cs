@@ -8,32 +8,41 @@ namespace ProjetoBanco
 {
     internal class Conta
     {
-        public int Numero { get; set; }
-        public string Titular { get; set; }
-        public double Saldo { get; protected set; }
-        public Agencia Agencia { get; set; } // Referência para a Agência
+        private int numero;
+        private string titular;
+        private double saldo;
 
         public Conta(int numero, string titular, double saldo)
         {
-            Numero = numero;
-            Titular = titular;
-            Saldo = saldo;
-        }
-        
-        public virtual void Debitar(double valor)
-        {
-            Saldo -= valor;
+            this.numero = numero;
+            this.titular = titular;
+            this.saldo = saldo;
         }
 
-        public virtual void Creditar(double valor)
+        public Conta()
         {
-            Saldo += valor;
         }
+
+        public int GetNumero()
+        { return numero; }
+
+        public void SetNumero(int numero)
+        { this.numero = numero; }
+
+        public string GetTitular()
+        { return titular; }
+
+        public void SetTitular(string titular)
+        { this.titular = titular; }
+
+        public double GetSaldo()
+        { return saldo; }
+
+        public void SetSaldo(double saldo)
+        { this.saldo = saldo; }
 
         public override string ToString()
-        {
-            return $"Número: {Numero}, Titular: {Titular}, Saldo: {Saldo}, Agência: {Agencia.Codigo}";
-        }
+        { return "Numero: " + numero + ", Titular: " + titular + ", Saldo: " + saldo; }
 
         public override bool Equals(object obj)
         {
@@ -43,7 +52,12 @@ namespace ProjetoBanco
             }
 
             Conta outraConta = (Conta)obj;
-            return Numero == outraConta.Numero;
+            return this.numero == outraConta.numero;
+        }
+        
+        public void imprimirDadosConta() 
+        {
+            Console.Write("\nNumero: " + numero + "\nTitular: " + titular + "\nSaldo: " + saldo);
         }
     }
 }
