@@ -28,8 +28,44 @@ namespace ProjetoBanco
             int numero = int.Parse(boxnumero.Text);
             string titular = boxtitulo.Text;
             double saldo = double.Parse(boxsaldo.Text);
-            agencia.AdicionarConta(new Conta(numero, titular, saldo));
-            MessageBox.Show("Conta:" + agencia, "Cadastro da Conta");
+            Conta conta = agencia.BuscarConta(numero);
+            if (conta != null)
+            {
+                MessageBox.Show("Conta já cadastrada.");
+                return;
+            }
+            else
+            {
+                agencia.AdicionarConta(new Conta(numero, titular, saldo));
+            }
+            MessageBox.Show($"Conta: {conta} agencia Cadastro da Conta");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int numero = int.Parse(boxnumero.Text);
+            Conta conta = agencia.BuscarConta(numero);
+            if (conta != null)
+                MessageBox.Show($"Conta: {conta} agencia Busca da Conta");
+            else
+                MessageBox.Show("Conta não encontrada.");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {         
+            int numero = int.Parse(boxnumero.Text);
+            string titular = boxtitulo.Text;
+            double saldo = double.Parse(boxsaldo.Text);
+            Conta conta = agencia.BuscarConta(numero);
+            conta.SetTitular(titular);
+            conta.SetSaldo(saldo);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int numero = int.Parse(boxnumero.Text);
+            Conta conta = agencia.BuscarConta(numero);
+            agencia.ExcluirConta(conta);
         }
     }
 }

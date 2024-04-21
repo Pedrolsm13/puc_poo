@@ -102,6 +102,7 @@
             this.button4.TabIndex = 15;
             this.button4.Text = "Excluir";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -130,6 +131,7 @@
             this.button1.TabIndex = 12;
             this.button1.Text = "Pesquisar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // View_Conta
             // 

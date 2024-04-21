@@ -36,5 +36,17 @@ namespace ProjetoBanco
                 Console.WriteLine(conta);
             }
         }
+
+        public Conta BuscarConta(int numero)
+        {
+            foreach (var conta in contas)
+            {
+                if (conta.GetNumero() == numero)
+                {
+                    return conta;
+                }
+            }
+            return null;
+        }
     }
 }
