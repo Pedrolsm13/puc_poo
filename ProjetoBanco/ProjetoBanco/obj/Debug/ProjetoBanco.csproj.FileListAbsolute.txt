@@ -24,10 +24,10 @@ C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanc
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.AssemblyReference.cache
-C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Form1.resources
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Properties.Resources.resources
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.View_Conta.resources
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.GenerateResource.cache
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
 C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
+C:\Users\pedro\Workspace\puc_poo\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Banco.resources

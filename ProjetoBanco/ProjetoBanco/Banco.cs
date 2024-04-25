@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace ProjetoBanco
 {
-    public partial class Form1 : Form
+    public partial class Banco : Form
     {
         private View_Conta viewConta;
 
-        public Form1()
+        public Banco()
         {
             InitializeComponent();
         }

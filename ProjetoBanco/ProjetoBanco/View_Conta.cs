@@ -62,6 +62,7 @@ namespace ProjetoBanco
             {
                 conta.SetTitular(titular);
                 conta.SetSaldo(saldo);
+                MessageBox.Show($"Conta: {conta} Alterada!!!");
             }
             else
             {
@@ -78,7 +79,7 @@ namespace ProjetoBanco
 
         private void button5_Click(object sender, EventArgs e)
         {
-            agencia.ListarContas();
+            MessageBox.Show($"");
         }
     }
 }

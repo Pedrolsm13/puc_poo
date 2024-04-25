@@ -11,7 +11,7 @@ namespace ProjetoBanco
     {
         public int Codigo { get; set; }
         public string Descricao { get; set; }
-        private List<Conta> contas = new List<Conta>();
+        public List<Conta> contas = new List<Conta>();
 
         public Agencia(int codigo, string descricao)
         {

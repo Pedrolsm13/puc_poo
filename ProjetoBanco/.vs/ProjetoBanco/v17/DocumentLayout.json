@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\banco.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\banco.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\view_conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\view_conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +27,16 @@
       "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetobanco\\projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\view_conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\view_conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetobanco\\projetobanco\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\view_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetobanco\\projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\projetobanco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C810A9-1ED9-4876-9071-B0CAF455E3DD}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,111 +54,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.Designer.cs",
-              "RelativeToolTip": "ProjetoBanco\\Form1.Designer.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAC4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T19:14:11.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "View_Conta.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.Designer.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\View_Conta.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.Designer.cs",
-              "RelativeToolTip": "ProjetoBanco\\View_Conta.Designer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:51:46.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "View_Conta.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.cs",
               "RelativeDocumentMoniker": "ProjetoBanco\\View_Conta.cs",
               "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.cs",
               "RelativeToolTip": "ProjetoBanco\\View_Conta.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAFEAAAAJAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAD4v1MAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T17:11:30.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Conta.cs",
               "RelativeDocumentMoniker": "ProjetoBanco\\Conta.cs",
               "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Conta.cs",
               "RelativeToolTip": "ProjetoBanco\\Conta.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAfAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T21:45:50.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Agencia.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Agencia.cs",
               "RelativeDocumentMoniker": "ProjetoBanco\\Agencia.cs",
               "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Agencia.cs",
               "RelativeToolTip": "ProjetoBanco\\Agencia.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T21:44:29.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.cs",
-              "RelativeToolTip": "ProjetoBanco\\Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvx4AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Program.cs",
+              "RelativeToolTip": "ProjetoBanco\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:56:49.799Z",
+              "WhenOpened": "2024-04-07T21:49:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View_Conta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\View_Conta.Designer.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.Designer.cs",
+              "RelativeToolTip": "ProjetoBanco\\View_Conta.Designer.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:51:46.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ContaPoupanca.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaPoupanca.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\ContaPoupanca.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaPoupanca.cs",
-              "RelativeToolTip": "ProjetoBanco\\ContaPoupanca.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Title": "Banco.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Banco.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Banco.Designer.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Banco.Designer.cs",
+              "RelativeToolTip": "ProjetoBanco\\Banco.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:47:26.385Z",
+              "WhenOpened": "2024-04-25T19:14:11.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaCorrente.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\ContaCorrente.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaCorrente.cs",
-              "RelativeToolTip": "ProjetoBanco\\ContaCorrente.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAD4v08AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:46:21.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "View_Conta.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\View_Conta.cs",
               "RelativeDocumentMoniker": "ProjetoBanco\\View_Conta.cs",
@@ -178,28 +144,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Program.cs",
-              "RelativeToolTip": "ProjetoBanco\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\ContaPoupanca.cs",
+              "RelativeToolTip": "ProjetoBanco\\ContaPoupanca.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:49:29.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T21:47:26.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.cs",
-              "RelativeDocumentMoniker": "ProjetoBanco\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Form1.cs [Design]",
-              "RelativeToolTip": "ProjetoBanco\\Form1.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Banco.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Banco.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoBanco\\ProjetoBanco\\Banco.cs",
+              "RelativeToolTip": "ProjetoBanco\\Banco.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:56:46.382Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-07T21:56:49.799Z",
+              "EditorCaption": ""
             }
           ]
         }
