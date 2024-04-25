@@ -19,6 +19,16 @@ namespace ProjetoBanco
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int numero = int.Parse(boxnumero.Text);
+            Conta conta = agencia.BuscarConta(numero);
+            if (conta != null)
+                MessageBox.Show($"Conta: {conta} agencia Busca da Conta");
+            else
+                MessageBox.Show("Conta não encontrada.");
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
             if (agencia == null)
@@ -38,17 +48,8 @@ namespace ProjetoBanco
             {
                 agencia.AdicionarConta(new Conta(numero, titular, saldo));
             }
+            conta = agencia.BuscarConta(numero);
             MessageBox.Show($"Conta: {conta} agencia Cadastro da Conta");
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            int numero = int.Parse(boxnumero.Text);
-            Conta conta = agencia.BuscarConta(numero);
-            if (conta != null)
-                MessageBox.Show($"Conta: {conta} agencia Busca da Conta");
-            else
-                MessageBox.Show("Conta não encontrada.");
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -57,8 +58,15 @@ namespace ProjetoBanco
             string titular = boxtitulo.Text;
             double saldo = double.Parse(boxsaldo.Text);
             Conta conta = agencia.BuscarConta(numero);
-            conta.SetTitular(titular);
-            conta.SetSaldo(saldo);
+            if(conta != null)
+            {
+                conta.SetTitular(titular);
+                conta.SetSaldo(saldo);
+            }
+            else
+            {
+                MessageBox.Show("Conta não encontrada.");
+            }  
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -66,6 +74,11 @@ namespace ProjetoBanco
             int numero = int.Parse(boxnumero.Text);
             Conta conta = agencia.BuscarConta(numero);
             agencia.ExcluirConta(conta);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            agencia.ListarContas();
         }
     }
 }

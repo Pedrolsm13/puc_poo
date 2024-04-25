@@ -77,7 +77,7 @@ namespace ProjetoBanco
             Console.WriteLine("Saldo Total Disponível: " + SaldoDisponivel());
         }
 
-        public new void imprimirDadosConta()
+        public void imprimirDadosConta()
         { 
             base.imprimirDadosConta();
             Console.WriteLine("Conta Especial: " + contaEspecial);

@@ -12,7 +12,7 @@ namespace ProjetoBanco
         private string titular;
         private double saldo;
 
-        public Conta(int numero, string titular, double saldo)
+        public Conta(int numero, string titular, double saldo) : this()
         {
             this.numero = numero;
             this.titular = titular;
@@ -43,17 +43,6 @@ namespace ProjetoBanco
 
         public override string ToString()
         { return "Numero: " + numero + ", Titular: " + titular + ", Saldo: " + saldo; }
-
-        public override bool Equals(object obj)
-        {
-            if (obj == null || GetType() != obj.GetType())
-            {
-                return false;
-            }
-
-            Conta outraConta = (Conta)obj;
-            return this.numero == outraConta.numero;
-        }
         
         public void imprimirDadosConta() 
         {
