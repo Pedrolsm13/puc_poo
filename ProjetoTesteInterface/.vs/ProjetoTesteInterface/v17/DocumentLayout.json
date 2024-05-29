@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\figuravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\figuravo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\ifccontratofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\ifccontratofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\pontovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\pontovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\conjuntohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\conjuntohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\ifcfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\ifcfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|c:\\users\\pedro\\workspace\\puc_poo\\projetotesteinterface\\projetotesteinterface\\circulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A05807-5143-4EF0-8772-72EEF6DDCE9C}|ProjetoTesteInterface\\ProjetoTesteInterface.csproj|solutionrelative:projetotesteinterface\\circulovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IfcContratoFigura.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\IfcContratoFigura.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\IfcContratoFigura.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\IfcContratoFigura.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\IfcContratoFigura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:07:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IfcFigura.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\IfcFigura.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\IfcFigura.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\IfcFigura.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\IfcFigura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:05:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CirculoVO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\CirculoVO.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\CirculoVO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\CirculoVO.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\CirculoVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:03:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConjuntoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\ConjuntoHelper.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\ConjuntoHelper.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\ConjuntoHelper.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\ConjuntoHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:03:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiguraVO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\FiguraVO.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\FiguraVO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\FiguraVO.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\FiguraVO.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:03:32.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PontoVO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\PontoVO.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\PontoVO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\PontoVO.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\PontoVO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:03:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoTesteInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Workspace\\puc_poo\\ProjetoTesteInterface\\ProjetoTesteInterface\\Program.cs",
+              "RelativeToolTip": "ProjetoTesteInterface\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:02:33.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

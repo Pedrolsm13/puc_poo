@@ -1,0 +1,15 @@
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.AssemblyInfo.cs
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.sourcelink.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\bin\Debug\net8.0\ProjetoTesteInterface.exe
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\bin\Debug\net8.0\ProjetoTesteInterface.deps.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\bin\Debug\net8.0\ProjetoTesteInterface.runtimeconfig.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\bin\Debug\net8.0\ProjetoTesteInterface.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\bin\Debug\net8.0\ProjetoTesteInterface.pdb
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\refint\ProjetoTesteInterface.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.pdb
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ProjetoTesteInterface.genruntimeconfig.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteInterface\ProjetoTesteInterface\obj\Debug\net8.0\ref\ProjetoTesteInterface.dll
