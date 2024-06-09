@@ -1,0 +1,15 @@
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\bin\Debug\net8.0\ProjetoTesteArquivo.exe
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\bin\Debug\net8.0\ProjetoTesteArquivo.deps.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\bin\Debug\net8.0\ProjetoTesteArquivo.runtimeconfig.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\bin\Debug\net8.0\ProjetoTesteArquivo.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\bin\Debug\net8.0\ProjetoTesteArquivo.pdb
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.AssemblyInfo.cs
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.sourcelink.json
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\refint\ProjetoTesteArquivo.dll
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.pdb
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ProjetoTesteArquivo.genruntimeconfig.cache
+C:\Users\pedro\Workspace\puc_poo\ProjetoTesteArquivo\ProjetoTesteArquivo\obj\Debug\net8.0\ref\ProjetoTesteArquivo.dll
