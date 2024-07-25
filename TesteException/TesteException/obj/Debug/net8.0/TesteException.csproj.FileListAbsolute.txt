@@ -1,0 +1,15 @@
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\bin\Debug\net8.0\TesteException.exe
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\bin\Debug\net8.0\TesteException.deps.json
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\bin\Debug\net8.0\TesteException.runtimeconfig.json
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\bin\Debug\net8.0\TesteException.dll
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\bin\Debug\net8.0\TesteException.pdb
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.AssemblyInfo.cs
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.sourcelink.json
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.dll
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\refint\TesteException.dll
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.pdb
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\TesteException.genruntimeconfig.cache
+C:\Users\pedro\Workspace\puc_poo\TesteException\TesteException\obj\Debug\net8.0\ref\TesteException.dll
